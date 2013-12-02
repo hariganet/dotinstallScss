@@ -1,1 +1,1 @@
-dotinstall lesson "resiponsive web design"
+dotinstall lesson "scss"
