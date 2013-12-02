@@ -1,0 +1,14 @@
+.msg, .errorMsg, .warningMsg {
+  font-size: 12px;
+  font-weight: bold;
+  padding: 2px 4px;
+  color: white;
+}
+
+.errorMsg {
+  background: red;
+}
+
+.warningMsg {
+  background: orange;
+}

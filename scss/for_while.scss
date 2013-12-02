@@ -1,0 +1,9 @@
+@for $i from 10 through 14{
+  .fs#{$i} {  font-size: #{$i}px; }
+}
+
+$i: 10;
+@while $i <=14{
+  .fs#{$i} {  font-size: #{$i}px; }
+  $i: $i + 1;
+}
